@@ -21,7 +21,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    deploy :
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -r https://github.com/Priyanshunegi5/music-website/tree/master",
+
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
