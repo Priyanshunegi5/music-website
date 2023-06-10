@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Priyanshunegi5/music-website/static/css/main.073c9b0a.css",
-    "main.js": "/Priyanshunegi5/music-website/static/js/main.81ef0a31.js",
+    "main.js": "/Priyanshunegi5/music-website/static/js/main.87385108.js",
     "static/js/787.bc7d429a.chunk.js": "/Priyanshunegi5/music-website/static/js/787.bc7d429a.chunk.js",
     "index.html": "/Priyanshunegi5/music-website/index.html",
     "main.073c9b0a.css.map": "/Priyanshunegi5/music-website/static/css/main.073c9b0a.css.map",
-    "main.81ef0a31.js.map": "/Priyanshunegi5/music-website/static/js/main.81ef0a31.js.map",
+    "main.87385108.js.map": "/Priyanshunegi5/music-website/static/js/main.87385108.js.map",
     "787.bc7d429a.chunk.js.map": "/Priyanshunegi5/music-website/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.81ef0a31.js"
+    "static/js/main.87385108.js"
   ]
 }
